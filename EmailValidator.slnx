@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EmailValidator/EmailValidator.csproj" />
+  <Project Path="EmailValidatorApp/EmailValidatorApp.csproj" Id="e6fa334c-b54a-43f5-bd49-c861bdd84934" />
+</Solution>
